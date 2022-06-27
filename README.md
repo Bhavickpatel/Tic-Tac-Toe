@@ -3,11 +3,11 @@
 (a) 
 Name of the project: Tic Tac Toe App
 
-Name: Subham Kumar
+Name: Bhavick Patel
 
-BITS ID: 2018B5A70887G
+BITS ID: 2018B4A70846G
 
-Email: f20180887@goa.bits-pilani.ac.in
+Email: f20180846@goa.bits-pilani.ac.in
 
 
 (b)
